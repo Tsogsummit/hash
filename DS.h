@@ -13,7 +13,7 @@ typedef struct node node;
 struct List{
     node *head;
     node *tail;
-    len;
+    int len;
 };
 typedef struct List List;
 
